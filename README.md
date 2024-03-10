@@ -93,9 +93,9 @@ For this part of the assignment, you’ll write a report on the performance of t
 
 The report should contain the following:
 
-Overview of the analysis: Explain the purpose of this analysis.
+1. Overview of the analysis: Explain the purpose of this analysis.
 
-Results: Using bulleted lists and images to support your answers, address the following questions:
+2. Results: Using bulleted lists and images to support your answers, address the following questions:
 
 Data Preprocessing
 
@@ -107,13 +107,13 @@ Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
 # Step 5: Copy Files Into Your Repository
 Now that you're finished with your analysis in Google Colab, you need to get your files into your repository for final submission.
 
-Download your Colab notebooks to your computer.
+1. Download your Colab notebooks to your computer.
 
-Move them into your Deep Learning Challenge directory in your local repository.
+2. Move them into your Deep Learning Challenge directory in your local repository.
 
-Push the added files to GitHub.
+3. Push the added files to GitHub.
