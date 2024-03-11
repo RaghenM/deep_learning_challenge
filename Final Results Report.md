@@ -12,31 +12,31 @@ The given data was used to train and test the 3 models.
 Compiling, Training, and Evaluating the Model
 
 
-1. Attempt 1- I started with 2 hidden layers and a smaller amount of neurons
-  layer 1= 9
-  layer 2= 9
+Attempt 1- I started with 2 hidden layers and a smaller amount of neurons
+layer 1= 9
+layer 2= 9
 
-  I wanted to start small and build from there. If I could achieve decent accuracy with a simpler model that would be ideal for performance
+I wanted to start small and build from there. If I could achieve decent accuracy with a simpler model that would be ideal for performance
 
-  Accuracy= 72.5% and Loss= 55%
+Accuracy= 72.5% and Loss= 55%
 
-2. Attempt 2- I had 3 layers and upped the nodes 
-  layer 1= 9
-  layer 2= 18
-  layer 3= 27
+Attempt 2- I had 3 layers and upped the nodes 
+layer 1= 9
+layer 2= 18
+layer 3= 27
 
-  I thought that more nodes and another layer would give me better accuracy and it did. 
+I thought that more nodes and another layer would give me better accuracy and it did. 
 
-  Accuracy= 73% and Loss= 55%
+Accuracy= 73% and Loss= 55%
 
-3. Attempt 3- Added more layers and more epocs
-  layer 1= 18
-  layer 2= 18
-  layer 3= 27
+Attempt 3- Added more layers and more epocs
+layer 1= 18
+layer 2= 18
+layer 3= 27
 
-  I figured that I would take a small hit on performance to get better accuracy by upping the nodes and the epocs. However, the model took longer to run and did not have better accuracy than         attempt 2.
+I figured that I would take a small hit on performance to get better accuracy by upping the nodes and the epocs. However, the model took longer to run and did not have better accuracy than         attempt 2.
 
-  Accuracy= 72.9% and Loss= 55.1%
+Accuracy= 72.9% and Loss= 55.1%
 
 
 # Summary
