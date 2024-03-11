@@ -29,7 +29,7 @@ I thought that more nodes and another layer would give me better accuracy and it
 
 Accuracy= 73% and Loss= 55%
 
-4. Attempt 3- Added more layers and more epocs
+3. Attempt 3- Added more layers and more epocs
 layer 1= 18
 layer 2= 18
 layer 3= 27
