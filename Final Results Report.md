@@ -10,21 +10,22 @@ The given data was used to train and test the 3 models.
 - The variables removed from the data during pre-processing: EIN and NAME… these were not needed because the do not have a factor on funding as they are identifiers for the applicants
 
 Compiling, Training, and Evaluating the Model
--	How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Attempt 1- I started with 2 hidden layers and a smaller amount of neurons
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
+1. Attempt 1- I started with 2 hidden layers and a smaller amount of neurons
 layer 1= 9
 layer 2= 9
 I wanted to start small and build from there. If I could achieve decent accuracy with a simpler model that would be ideal for performanc
 Accuracy= 72.5% and Loss= 55%
 
-Attempt 2- I had 3 layers and upped the nodes 
+2. Attempt 2- I had 3 layers and upped the nodes 
 layer 1= 9
 layer 2= 18
 layer 3= 27
 I thought that more nodes and another layer would give me better accuracy and it did. 
 Accuracy= 73% and Loss= 55%
 
-Attempt 3- Added more layers and more epocs
+3. Attempt 3- Added more layers and more epocs
 layer 1= 18
 layer 2= 18
 layer 3= 27
