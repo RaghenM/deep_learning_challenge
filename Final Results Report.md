@@ -10,7 +10,7 @@ The given data was used to train and test the 3 models.
 - The variables removed from the data during pre-processing: EIN and NAME… these were not needed because the do not have a factor on funding as they are identifiers for the applicants
 
 Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
 
 1. Attempt 1- I started with 2 hidden layers and a smaller amount of neurons
 layer 1= 9
